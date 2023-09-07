@@ -1,0 +1,31 @@
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\bin\Debug\chatboot.exe.config
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\bin\Debug\chatboot.exe
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\bin\Debug\chatboot.pdb
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\bin\Debug\chatboot.xml
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.vbprojAssemblyReference.cache
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.Form1.resources
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.Resources.resources
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.vbproj.GenerateResource.cache
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.vbproj.CoreCompileInputs.cache
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.exe
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.xml
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.pdb
+C:\Users\Hp 8470p\source\repos\chatboot\chatboot\obj\Debug\chatboot.Form2.resources
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\bin\Debug\chatboot.exe.config
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\bin\Debug\chatboot.exe
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\bin\Debug\chatboot.pdb
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\bin\Debug\chatboot.xml
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.vbproj.AssemblyReference.cache
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.Form1.resources
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.Form2.resources
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.Resources.resources
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.vbproj.GenerateResource.cache
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.vbproj.CoreCompileInputs.cache
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.exe
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.xml
+C:\Users\Ing. Julián García\Videos\chatboot\chatboot\obj\Debug\chatboot.pdb
+C:\Users\lopez\OneDrive\Escritorio\automatas II\chatboot\chatboot\obj\Debug\chatboot.vbproj.AssemblyReference.cache
+C:\Users\lopez\OneDrive\Escritorio\automatas II\chatboot\chatboot\obj\Debug\chatboot.vbproj.SuggestedBindingRedirects.cache
+C:\Users\lopez\OneDrive\Escritorio\automatas II\chatboot\chatboot\obj\Debug\chatboot.exe
+C:\Users\lopez\OneDrive\Escritorio\automatas II\chatboot\chatboot\obj\Debug\chatboot.xml
+C:\Users\lopez\OneDrive\Escritorio\automatas II\chatboot\chatboot\obj\Debug\chatboot.pdb
